@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NINValidator", "NINValidator\NINValidator.csproj", "{C91B55C3-84C6-4972-89C6-FC51FE5111C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4A6868AB-040D-4D9C-BF3D-053AEA32BFAC}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91B55C3-84C6-4972-89C6-FC51FE5111C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91B55C3-84C6-4972-89C6-FC51FE5111C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91B55C3-84C6-4972-89C6-FC51FE5111C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91B55C3-84C6-4972-89C6-FC51FE5111C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A09A62-2017-4D31-BF58-94556C7F322D}
+	EndGlobalSection
+EndGlobal
