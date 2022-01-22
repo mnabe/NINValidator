@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <PackageId>mnabe.NINValidator</PackageId>
+    <Authors>mnabe</Authors>
+    <Company>mnabe</Company>
+    <Description>Simple validator library for national identification numbers.</Description>
+    <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/mnabe/NINValidator</RepositoryUrl>
+    <PackageTags>Validation, NIN, NationalIdentificationNumber, SSN, ID</PackageTags>
   </PropertyGroup>
 
 </Project>
