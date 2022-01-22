@@ -9,8 +9,9 @@
     <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/mnabe/NINValidator</RepositoryUrl>
     <PackageTags>Validation, NIN, NationalIdentificationNumber, SSN, ID</PackageTags>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Product>NINValidator</Product>
+    <PackageReleaseNotes>Mark methods static to make them accessible directly.</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
